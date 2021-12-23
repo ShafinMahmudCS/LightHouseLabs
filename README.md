@@ -33,6 +33,289 @@ ________________________________________________________________________________
 }
   ```
 ___________________________________________________________________________________________________________________
+
+<h2 id="C3"> ⭐ Challenge 3</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147270249-7a6ad422-05ec-46de-804a-cb19d7afee6f.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+
+const checkGaugeStatus = (gauge) => {
+
+  if(gauge.current>=gauge.min && gauge.current <= gauge.max){
+    
+    return true;
+    
+  }else{
+    
+    return false;
+    
+  }
+}
+  ```
+___________________________________________________________________________________________________________________
+          
+<h2 id="C4"> ⭐ Challenge 4</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272036-eb552ec2-1c1d-4fd8-a0a5-b69cc1d7447e.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const switchToggle = (toggle) => {
+  toggle.isOn = !toggle.isOn;
+  return toggle;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C6"> ⭐ Challenge 6</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272586-81fca819-d697-411e-8435-b33f59af86ad.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addAstronautToRoster = (roster, astronaut) => {
+  roster.push(astronaut);
+  return roster;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C7"> ⭐ Challenge 7</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
+
+<h2 id="C5"> ⭐ Challenge 5</h2>  
+ 
+<img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
+
+### ✔️ _Solution_
+  ``` Javascript
+const addJobToAstronaut = (astronaut, job) => {
+  astronaut.job = job;
+  return astronaut;
+}
+  ```
+___________________________________________________________________________________________________________________
   
+
 </div>
 
