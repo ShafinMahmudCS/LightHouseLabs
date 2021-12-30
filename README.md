@@ -2,7 +2,7 @@
   
 # JavaScript
 
-## 21 days coding challenge by Lighthouse Labs
+## 21 days coding challenge by _Lighthouse Labs_
   
 ### Completed one challenge a day from _November 22_ until _December 12_ to develop a daily coding habit.
  ___________________________________________________________________________________________________________________
