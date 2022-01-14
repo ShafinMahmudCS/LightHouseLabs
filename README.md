@@ -16,31 +16,37 @@ ________________________________________________________________________________
   
 <img src="https://user-images.githubusercontent.com/91167955/147261441-33f716e8-b166-43f1-8678-e5e4d0f415b1.png" width="45%" height="30%">
 
+  <div align="left">
+    
 ### ✔️ _Solution_
   ``` Javascript
   const parseMessage = (origin, message) => {
   return origin + ": " + message;
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
   
 <h2 id="C2"> ⭐ Challenge 2</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147267407-c50000c8-d6c8-4919-a8a3-1893cd934e37.png" width="45%" height="30%"> 
 
- 
+ <div align="left">
+   
 ### ✔️ _Solution_
   ``` Javascript
   const generateAstronautTag = (astronaut) => {
   return astronaut.prefix + ": " +  astronaut.firstName + " \"" + astronaut.nickname + "\" " + astronaut.lastName;
 }
   ```
+   </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C3"> ⭐ Challenge 3</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147270249-7a6ad422-05ec-46de-804a-cb19d7afee6f.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 
@@ -57,12 +63,14 @@ const checkGaugeStatus = (gauge) => {
   }
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
           
 <h2 id="C4"> ⭐ Challenge 4</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147272036-eb552ec2-1c1d-4fd8-a0a5-b69cc1d7447e.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const switchToggle = (toggle) => {
@@ -70,12 +78,14 @@ const switchToggle = (toggle) => {
   return toggle;
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C5"> ⭐ Challenge 5</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147272277-f8f54198-4e4e-417c-bc80-8cac5872474a.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const addJobToAstronaut = (astronaut, job) => {
@@ -83,12 +93,14 @@ const addJobToAstronaut = (astronaut, job) => {
   return astronaut;
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C6"> ⭐ Challenge 6</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147272586-81fca819-d697-411e-8435-b33f59af86ad.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const addAstronautToRoster = (roster, astronaut) => {
@@ -96,12 +108,14 @@ const addAstronautToRoster = (roster, astronaut) => {
   return roster;
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C7"> ⭐ Challenge 7</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147273185-0bfad829-00ea-43ec-80c7-d1834e132ad3.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const storeWeatherConditions = (temperature, condition, windSpeed, windDirection) => {
@@ -118,12 +132,14 @@ const storeWeatherConditions = (temperature, condition, windSpeed, windDirection
   return structure;
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C8"> ⭐ Challenge 8</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147273419-41fd3198-a3ce-456e-ab30-c6f564143a33.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const countActiveAstronauts = (roster) => {
@@ -135,12 +151,14 @@ const countActiveAstronauts = (roster) => {
   return count;
 }
   ```
+</div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C9"> ⭐ Challenge 9</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147273654-cef1cbaa-41d4-4f6e-8c91-ca02278b7ef3.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const listAstronautJobs = (roster) => {
@@ -152,12 +170,14 @@ const listAstronautJobs = (roster) => {
   return arr;
 }
   ```
+ </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C10"> ⭐ Challenge 10</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147273803-f5b3748d-dee2-4f43-a579-c9f6bc515409.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const averageWindSpeed = (weatherEntries) => {
@@ -171,12 +191,14 @@ const averageWindSpeed = (weatherEntries) => {
   return Math.round(sum/count);
 }
   ```
+</div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C11"> ⭐ Challenge 11</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147273965-e108f37a-0c6f-4e49-a0ac-4468cb87c0ad.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const bookFreePlatform = (platformList, missionDate) => {
@@ -189,12 +211,14 @@ const bookFreePlatform = (platformList, missionDate) => {
   return platformList;
 }
   ```
+</div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C12"> ⭐ Challenge 12</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147274088-7fb75f41-eaa1-4af0-b541-b39af2c62f7e.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const parseTranscripts = (messages) => {
@@ -208,12 +232,14 @@ const parseTranscripts = (messages) => {
   return arr;
 }
   ```
+</div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C13"> ⭐ Challenge 13</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147274241-afafc2c7-68bb-49d8-983d-05229cf2fee9.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const checkAllGauges = (gaugeList) => {
@@ -231,12 +257,14 @@ const checkAllGauges = (gaugeList) => {
   return result;
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C14"> ⭐ Challenge 14</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147274437-1a801a49-e31f-471b-be17-3a5077158dd2.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const switchAllTogglesOn = (toggleList) => {
@@ -246,12 +274,14 @@ const switchAllTogglesOn = (toggleList) => {
   return toggleList;
 }
   ```
+</div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C15"> ⭐ Challenge 15</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147274577-7472e8f0-f42c-4f07-b57d-cf371b20bfd7.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const timeRemaining = (launchDate, missionName, fakeToday) => {
@@ -265,12 +295,14 @@ const timeRemaining = (launchDate, missionName, fakeToday) => {
   }
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C16"> ⭐ Challenge 16</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147274717-e0d5e6c0-df6c-418f-9991-31adb02e6644.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const getAverageSpeed = (firstPosition, secondPosition) => {
@@ -280,12 +312,14 @@ const getAverageSpeed = (firstPosition, secondPosition) => {
   return parseFloat(speed.toFixed(1));
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C17"> ⭐ Challenge 17</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147279925-10b06ea5-1587-42c6-874b-e98358eb882a.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const switchSpecificToggle = (toggleList, specificToggle) => {
@@ -297,12 +331,14 @@ const switchSpecificToggle = (toggleList, specificToggle) => {
   return toggleList;
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C18"> ⭐ Challenge 18</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147280099-f68ca98c-9330-416d-941b-503669bc105d.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const chooseLunchWinner = (listOfChoices) => {
@@ -327,12 +363,15 @@ const chooseLunchWinner = (listOfChoices) => {
   }
 }
   ```
+  </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C19"> ⭐ Challenge 19</h2>  
  
+   
 <img src="https://user-images.githubusercontent.com/91167955/147280282-7491c22b-d4e5-452c-9cc5-48d7e4b35436.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 
@@ -360,12 +399,14 @@ for(j=0; j<receivedData.length; j++){
 return obj;
 }
   ```
+   </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C20"> ⭐ Challenge 20</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147281561-3f78b2f2-bfb1-48ef-8f56-0d54f8c830a4.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const confirmReentryPlans = (speed, missionData, checks) => {
@@ -385,12 +426,14 @@ for(const key in missionData){
 return true;
 }
   ```
+ </div>
 ___________________________________________________________________________________________________________________
 
 <h2 id="C21"> ⭐ Challenge 21</h2>  
  
 <img src="https://user-images.githubusercontent.com/91167955/147281794-8b266596-cd33-40fd-a565-6d2cec1f3305.png" width="45%" height="30%"> 
-
+<div align="left">
+  
 ### ✔️ _Solution_
   ``` Javascript
 const parseMissionSummary = (exchanges, missionData) => {
@@ -408,6 +451,7 @@ const parseMissionSummary = (exchanges, missionData) => {
   return obj;
 }
   ```
+ </div>
  __________________________________________________________________________________________________________________
 
 </div>
